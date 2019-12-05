@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
   <section name="Side Dishes">
-    <entree vegetarian="true">
-      <item>Potato Salad</item>
-      <price>4.95</price>
-    </entree>
     <entree>
       <item>Paddy's French Fries</item>
       <price>7.50</price>
+    </entree>
+    <entree>
+      <item/>
+      <price/>
     </entree>
   </section>
   <section name="Breakfast">
