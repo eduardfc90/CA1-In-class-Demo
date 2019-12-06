@@ -6,7 +6,8 @@ html {
 body {
 
     background-image: url(../img/zara.png);
-  background-size: 100%;
+  background-size: 1400px 1200px;
+  background-repeat: no-repeat;
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
