@@ -31,6 +31,10 @@
       <item>Croissant</item>
       <price>3.99</price>
     </entree>
+    <entree>
+      <item>Dress</item>
+      <price>49.95</price>
+    </entree>
   </section>
   <section name="Lunch">
     <entree>
