@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-  <section name="Side Dishes">
+  <section name="ACCESORIES">
     <entree>
-      <item>Paddy's French Fries</item>
-      <price>7.50</price>
+      <item> SCARF</item>
+      <price>22.95</price>
     </entree>
     <entree>
       <item/>
