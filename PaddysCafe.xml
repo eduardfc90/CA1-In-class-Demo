@@ -6,9 +6,15 @@
       <price>22.95</price>
     </entree>
     <entree>
-      <item/>
-      <price/>
+     <item> UMBRELLA</item>
+      <price>19.95</price>
     </entree>
+    
+    <entree>
+     <item>GLOVES</item>
+      <price>29.95</price>
+    </entree>
+
   </section>
   <section name="Breakfast">
     <entree>
