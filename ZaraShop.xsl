@@ -9,7 +9,7 @@
                         <tr>
                             <th>Select</th>
                             <th>Item</th>
-                            <th>Price EUR</th>
+                            <th>Price</th>
                         </tr>
                     </thead>
                     <tbody>
