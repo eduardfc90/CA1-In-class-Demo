@@ -16,6 +16,7 @@
       <price>29.95</price>
     </entree>
   </section>
+      <!-- Woman department  -->
   <section name="WOMAN">
     <entree>
       <item>Dress</item>
@@ -42,6 +43,7 @@
       <price>49.95</price>
     </entree>
   </section>
+    <!-- Man department  -->
   <section name="MAN">
       <!--Man Category -->
     <entree>

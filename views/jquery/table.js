@@ -16,7 +16,8 @@ function draw_table()
 				select_row();
 			}
 		});
-	};
+    };
+    /*getting the html */
 	$.getJSONuncached("/get/html")
 };
 
@@ -31,7 +32,7 @@ function select_row()
 		delete_row(section, entree);
 	})
 };
-/*Deleting the row innthe main page */
+/*Deleting the row in the main page */
 function delete_row(sec, ent)
 {
 	$("#delete").click(function ()
@@ -50,7 +51,7 @@ function delete_row(sec, ent)
 		})
 	})
 };
-
+/*drawing table */
 $(document).ready(function ()
 {
 	draw_table();

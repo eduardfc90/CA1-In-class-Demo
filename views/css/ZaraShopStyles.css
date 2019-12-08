@@ -25,6 +25,7 @@ body {
 /* we can modificated all the color , size border from those tables*/
 table, th, td {
      border-collapse: collapse;
+     /* borde of the table and color*/
      border: 12px solid #252850;
      text-align: center;
 }
@@ -34,6 +35,7 @@ table, th, td {
      background-color: #aeb8e6;
        text-align: center;
 }
+/* getting all caracterisctics of declaration td and th from html*/
  td, th {
      border: 10px solid #9c9c9c;
      

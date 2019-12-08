@@ -9,12 +9,14 @@
                             <!-- This is the part of our main table -->
                         </tr>
                         <tr>
+                            <!--drop down bar-->
                             <th>Select</th>
                             <th>Item</th>
                             <th>Price</th>
                         </tr>
                     </thead>
                     <tbody>
+                        <!-- calling the main function menu -->
                         <xsl:for-each select="/cafemenu/section">
                             <tr>
                                 <td colspan="3">
