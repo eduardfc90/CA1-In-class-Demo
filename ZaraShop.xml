@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
+    <!-- This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes-->
   <section      font-weight= "bold" name="ACCESORIES" >
     <entree>
       <item> SCARF</item>

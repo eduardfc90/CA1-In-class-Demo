@@ -1,5 +1,6 @@
 function draw_table()
 {
+    //This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes//
 	$("#results").empty();
 	$.getJSONuncached = function (url)
 	{

@@ -1,8 +1,9 @@
+
 html {
   position: relative;
   min-height: 100%;
 }
-
+/*This code is taking from the oringinal  Mikhail Timofeev project  and  did it my own changes*/
 body {
 
     background-image: url(../img/zara1.jpg);
