@@ -23,14 +23,14 @@
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active"><a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a></li>
-					<li class="nav-item"><a class="nav-link" href="#">About</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Services</a></li>
-					<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+					<li class="nav-item active"><a class="nav-link" href="#">About<span class="sr-only">(current)</span></a></li>
+					<li class="nav-item active"><a class="nav-link" href="#">Services</a></li>
+					<li class="nav-item active"><a class="nav-link" href="#">Contact</a></li>
 				</ul>
 			</div>
 		</div>
 	</nav>
-	<!-- Page Content -->
+	<!-- 1 Page Content  -->
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-left">
@@ -54,9 +54,9 @@
 					<div class="form-group">
 						<input class="form-control" type="text" name="price" placeholder="Price">
 					</div>
-					<button type="submit" class="btn btn-primary btn-block">Submit</button>
+					<button type="submit" class="btn btn-primary btn-block">Add to the Basket</button>
 				</form>
-                    <button id="delete" class="btn btn-block btn-danger">Delete</button>
+                    <button id="delete" class="btn btn-block btn-danger">Delete Item</button>
                     <p class="text-muted">To delete an entree, click the required row first</p>
 			</div>
 		</div>
@@ -65,6 +65,44 @@
 		<div class="container">	<span class="text-muted">&copy; 2019</span>
 		</div>
 	</footer>
+
+
+	<!--2 Page Content -->
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-left">
+				<h1 class="mt-5">Welcome to Zara Home</h1>
+				<p class="lead">Select your Purchases.</p>
+			</div>
+			<div id="results" class="col-lg-8 text-center order-3"></div>
+			<div class="col-lg-4 text-center order-2">
+				<form enctype="application/json" action="/post/json" method="post">
+					<div class="form-group">
+						<select class="form-control" name="sec_n">
+							<option value="0">Select Category</option>
+							<option value="1">Woman</option>
+							<option value="2">Man</option>
+							<option value="3">Kids</option>
+						</select>
+					</div>
+					<div class="form-group">
+						<input class="form-control" type="text" name="item" placeholder="Item">
+					</div>
+					<div class="form-group">
+						<input class="form-control" type="text" name="price" placeholder="Price">
+					</div>
+					<button type="submit" class="btn btn-primary btn-block">Add to the Basket</button>
+				</form>
+                    <button id="delete" class="btn btn-block btn-danger">Delete Item</button>
+                    <p class="text-muted">To delete an entree, click the required row first</p>
+			</div>
+		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">	<span class="text-muted">&copy; 2019</span>
+		</div>
+	</footer>
+
 	<!-- Bootstrap core JavaScript -->
 	<script src="jquery/jquery.min.js"></script>
 	<script src="jquery/table.js"></script>

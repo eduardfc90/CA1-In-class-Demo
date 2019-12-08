@@ -3,19 +3,19 @@
     <!-- This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes-->
   <section      font-weight= "bold" name="ACCESORIES" >
     <entree>
-      <item> SCARF</item>
+      <item> Scarf</item>
       <price>22.95</price>
     </entree>
     <entree>
-      <item> UMBRELLA</item>
+      <item> Umbrella</item>
       <price>19.95</price>
     </entree>
     <entree>
-      <item>GLOVES</item>
+      <item>Gloves</item>
       <price>29.95</price>
     </entree>
   </section>
-  <section name="Woman">
+  <section name="WOMAN">
     <entree>
       <item>Dress</item>
       <price>49.95</price>
@@ -41,7 +41,7 @@
       <price>49.95</price>
     </entree>
   </section>
-  <section name="Man">
+  <section name="MAN">
     <entree>
       <item>Blazers</item>
       <price>129.95</price>
@@ -63,7 +63,7 @@
       <price>22.95</price>
     </entree>
   </section>
-  <section name="Kids">
+  <section name="KIDS">
     <entree>
       <item>Coats</item>
       <price>39.95</price>
