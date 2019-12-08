@@ -5,7 +5,7 @@ html {
 }
 /*This code is taking from the oringinal  Mikhail Timofeev project  and  did it my own changes*/
 body {
-
+/*Getting th main photo of this web also we can select the size we want this picture*/
     background-image: url(../img/zara1.jpg);
   background-size: 1000px 1200px;
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@ body {
   line-height: 60px; /* Vertically center the text there */
   background-color: #252850;
 }
-
+/* we can modificated all the color , size border from those tables*/
 table, th, td {
      border-collapse: collapse;
      border: 12px solid #252850;
@@ -43,6 +43,7 @@ table, th, td {
  th {
      font-weight: bold;
 }
+/*selecting color green when someone the table*/
 .selected {
             background-color: #088708;
             color: #9c9c9c;

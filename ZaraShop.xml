@@ -2,6 +2,7 @@
 <cafemenu>
     <!-- This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes-->
   <section      font-weight= "bold" name="ACCESORIES" >
+    <!-- There are all our items by ordered by category  -->
     <entree>
       <item> Scarf</item>
       <price>22.95</price>
@@ -42,6 +43,7 @@
     </entree>
   </section>
   <section name="MAN">
+      <!--Man Category -->
     <entree>
       <item>Blazers</item>
       <price>129.95</price>
@@ -63,6 +65,7 @@
       <price>22.95</price>
     </entree>
   </section>
+  <!-- Kids Category -->
   <section name="KIDS">
     <entree>
       <item>Coats</item>
