@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-  <p> 
+  
   <section name="ACCESORIES">
     
     <entree>
@@ -19,7 +19,7 @@
      
   
   </section>
-  </p> 
+  
   <section name="Breakfast">
     <entree>
       <item>Two Eggs, any style</item>
