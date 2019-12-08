@@ -1,6 +1,6 @@
 function draw_table()
 {
-    //This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes//
+    //This code is taking from the original  Mikhail Timofeev project  and I did it my own changes//
     $("#results").empty();
     /* This is one of the most important part of this web, those function allow the user add or delete item from the main page */
 	$.getJSONuncached = function (url)

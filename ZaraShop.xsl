@@ -3,7 +3,7 @@
     <xsl:template match="/">
                 <table id="menuTable" class="indent">
                     <thead>
-                        <!-- This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes-->
+                        <!-- This code is taking from the original  Mikhail Timofeev project  and I did it my own changes-->
                         <tr>
                             <th colspan="3"> ZARA SHOPPING BASKET</th>
                             <!-- This is the part of our main table -->

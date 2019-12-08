@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-    <!-- This code is taking from the oringinal  Mikhail Timofeev project  and I did it my own changes-->
+    <!-- This code is taking from the original  Mikhail Timofeev project  and I did it my own changes-->
   <section      font-weight= "bold" name="ACCESORIES" >
     <!-- There are all our items by ordered by category  -->
     <entree>

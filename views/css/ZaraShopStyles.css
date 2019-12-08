@@ -3,7 +3,7 @@ html {
   position: relative;
   min-height: 100%;
 }
-/*This code is taking from the oringinal  Mikhail Timofeev project  and  did it my own changes*/
+/*This code is taking from the original  Mikhail Timofeev project  and  did it my own changes*/
 body {
 /*Getting th main photo of this web also we can select the size we want this picture*/
     background-image: url(../img/zara1.jpg);
