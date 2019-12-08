@@ -16,7 +16,7 @@
      <item>GLOVES</item>
       <price>29.95</price>
     </entree>
-
+  </th>
   </section>
   <section name="Breakfast">
     <entree>
@@ -72,5 +72,5 @@
       <price>9.79</price>
     </entree>
   </section>
-    </th>
+    
 </cafemenu>
