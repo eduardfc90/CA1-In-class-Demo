@@ -1,78 +1,91 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-  
   <section name="ACCESORIES">
-    
     <entree>
       <item> SCARF</item>
       <price>22.95</price>
     </entree>
     <entree>
-     <item> UMBRELLA</item>
+      <item> UMBRELLA</item>
       <price>19.95</price>
     </entree>
-    
     <entree>
-     <item>GLOVES</item>
+      <item>GLOVES</item>
       <price>29.95</price>
     </entree>
-     
-  
   </section>
-  
-  <section name="Breakfast">
-    <entree>
-      <item>Two Eggs, any style</item>
-      <price>4.99</price>
-    </entree>
-    <entree>
-      <item>Paddy's Famous Peppers and Eggs</item>
-      <price>8.29</price>
-    </entree>
-    <entree vegetarian="true">
-      <item>Bowl of fruit</item>
-      <price>6.99</price>
-    </entree>
-    <entree vegetarian="true">
-      <item>French toast</item>
-      <price>5.25</price>
-    </entree>
-    <entree>
-      <item>Croissant</item>
-      <price>3.99</price>
-    </entree>
+  <section name="Woman">
     <entree>
       <item>Dress</item>
       <price>49.95</price>
     </entree>
-  </section>
-  <section name="Lunch">
     <entree>
-      <item>Grilled Chicken Sandwich</item>
-      <price>7.99</price>
-    </entree>
-    <entree>
-      <item>Tuna Melt</item>
-      <price>6.99</price>
+      <item>Coats</item>
+      <price>99.95</price>
     </entree>
     <entree vegetarian="true">
-      <item>Pasta Salad</item>
-      <price>7.39</price>
-    </entree>
-  </section>
-  <section name="Dinner">
-    <entree>
-      <item>Ribeye Steak</item>
-      <price>19.99</price>
-    </entree>
-    <entree>
-      <item>Chilean Sea Bass</item>
-      <price>12.99</price>
+      <item>Jeans</item>
+      <price>39.95</price>
     </entree>
     <entree vegetarian="true">
-      <item>Linguini with Grilled Porcini Mushroom</item>
-      <price>9.79</price>
+      <item>Sweters</item>
+      <price>25.25</price>
+    </entree>
+    <entree>
+      <item>T-shirt</item>
+      <price>15.95</price>
+    </entree>
+    <entree>
+      <item>Shoes</item>
+      <price>49.95</price>
     </entree>
   </section>
-    
+  <section name="Man">
+    <entree>
+      <item>Blazers</item>
+      <price>129.95</price>
+    </entree>
+    <entree>
+      <item>Jumpers</item>
+      <price>29.95</price>
+    </entree>
+    <entree>
+      <item>Thousers</item>
+      <price>39.95</price>
+    </entree>
+    <entree>
+      <item>Shoes</item>
+      <price>59.95</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>T-shirt</item>
+      <price>22.95</price>
+    </entree>
+  </section>
+  <section name="Kids">
+    <entree>
+      <item>Coats</item>
+      <price>39.95</price>
+    </entree>
+    <entree>
+      <item>T-shirt</item>
+      <price>12.95</price>
+    </entree>
+    <entree>
+      <item>Shoes</item>
+      <price>29.95</price>
+    </entree>
+    <entree>
+      <item>Trousers</item>
+      <price>19.95</price>
+    </entree>
+    <entree vegetarian="true">
+      <item>Pyjamas</item>
+      <price>15.95</price>
+    </entree>
+    <entree>
+      <item>Sweter</item>
+      <price>15.95</price>
+    </entree>
+  </section>
 </cafemenu>
