@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-    <th>
+  <p> 
   <section name="ACCESORIES">
     
     <entree>
@@ -16,8 +16,10 @@
      <item>GLOVES</item>
       <price>29.95</price>
     </entree>
-  </th>
+     
+  
   </section>
+  </p> 
   <section name="Breakfast">
     <entree>
       <item>Two Eggs, any style</item>
