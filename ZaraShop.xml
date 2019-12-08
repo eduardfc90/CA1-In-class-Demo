@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
+    <th>
   <section name="ACCESORIES">
+    
     <entree>
       <item> SCARF</item>
       <price>22.95</price>
@@ -70,4 +72,5 @@
       <price>9.79</price>
     </entree>
   </section>
+    </th>
 </cafemenu>
