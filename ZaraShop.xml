@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-  <section name="ACCESORIES">
+  <section      font-weight= "bold" name="ACCESORIES" >
     <entree>
       <item> SCARF</item>
       <price>22.95</price>
