@@ -25,11 +25,11 @@ body {
 
 table, th, td {
      border-collapse: collapse;
-     border: 12px solid #393d42;
+     border: 12px solid #252850;
      text-align: center;
 }
  table {
-     border-collapse: collapse #393d42;
+     border-collapse: collapse #252850;
      width:100%;
      background-color: #aeb8e6;
        text-align: center;
